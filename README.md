@@ -1,4 +1,4 @@
-Restored itmages/yii-eoauth
+This is restored repository itmages/yii-eoauth
 
 Introduction
 ------------
