@@ -1,3 +1,5 @@
+Restored itmages/yii-eoauth
+
 Introduction
 ------------
 EOAuthUserIdentity class implements IUserIdentity Yii interface and the OAuth protocol to authenticate a user.
